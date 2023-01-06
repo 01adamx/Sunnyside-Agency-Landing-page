@@ -19,27 +19,21 @@
 </head>
 <body>
   
-  <header class="header">
+  <header>
     <div class="header">
       <img  class="logo" src="images/logo.svg" alt="logo">
       <nav class="nav-mobile">
         <img src="images/icon-hamburger.svg" alt="">
       </nav>
       <nav class="nav-desktop">
-        <p>About</p>
-        <p>Services</p>
-        <p>Projects</p>
-        <p id="contact">Contact</p>
+        <ul>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Projects</a></li>
+          <li id="contact"><a href="#">Contact</a></li>
+        </ul>
       </nav>
     </div>  
-    <nav class="nav-mobile-list">
-      <ul>
-        <li>About</li>
-        <li>Services</li>
-        <li>Projects</li>
-        <li id="contact-2">Contact</li>
-      </ul>
-    </nav>
     <main>
       <h1>We are creatives</h1>
       <img src="images/icon-arrow-down.svg" alt="">
@@ -132,17 +126,8 @@
 
   <div class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
+    Coded by <a href="#">adamx</a>.
   </div>
 
-  <script>
-    const navMobile = document.getElementsByClassName('nav-mobile')
-    nav = document.getElementsByClassName('nav-mobile-list')
-    navExit = document.querySelector('body');
-
-    navMobile.addEventListener('click', () => {
-        nav.style.display = "block";
-    })
-  </script>
 </body>
 </html>

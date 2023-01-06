@@ -48,9 +48,10 @@ header .header .nav-desktop {
   display: flex;
   vertical-align: middle;
   font-family: barlow;
+  color: white;
 }
 
-header .header .nav-desktop p {
+header .header .nav-desktop ul {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -60,13 +61,21 @@ header .header .nav-desktop p {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+header .header .nav-desktop ul li {
+  list-style: none;
   margin-left: 60px;
+}
+
+header .header .nav-desktop ul li a {
+  text-decoration: none;
+  color: white;
 }
 
 header .header .nav-desktop #contact {
   background-color: white;
   padding: 10px;
-  color: var(--Very-dark-desaturated-blue);
   border-radius: 20px;
   text-transform: uppercase;
   font-size: small;
@@ -74,8 +83,8 @@ header .header .nav-desktop #contact {
   font-weight: 700;
 }
 
-header .nav-mobile-list {
-  display: none;
+header .header .nav-desktop #contact a {
+  color: var(--Very-dark-desaturated-blue);
 }
 
 header main {
