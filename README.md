@@ -24,9 +24,11 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
+- **Bonus**: Toggle the mobile menu (requires some JavaScript)
 
 ### Screenshot
 
+![](./screenshot.jpg)
 
 ### Links
 
@@ -47,13 +49,13 @@ Users should be able to:
 
 ### Useful resources
 
-- [Google](https://google.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Youtube](https://www.youtube.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Google](https://google.com) 
+- [Youtube](https://www.youtube.com) 
 
 
 ## Author
 
-- Website - [Adams Ibrahim](https://github.com/adamx23x)
+- Github - [Adams Ibrahim](https://github.com/adamx23x)
 - Frontend Mentor - [@adamx23x](https://www.frontendmentor.io/profile/@adamx23x)
 - Twitter - [@adamx23x](https://www.twitter.com/@adamx23x)
 
