@@ -28,7 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+
+![Screenshot preview for the Snnyside agency landing page coding solution](./screenshot/Sunnyside-agency-landing-page-Destop-screenshot.png)
 
 ### Links
 
