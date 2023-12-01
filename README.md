@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/adamx23x/Sunnyside-Agency-Landing-page](https://github.com/adamx23x/Sunnyside-Agency-Landing-page)
-- Live Site URL: [https://adamx23x.github.io/Sunnyside-Agency-Landing-page/](https://adamx23x.github.io/Sunnyside-Agency-Landing-page/)
+- Solution URL: [https://github.com/01adamx/Sunnyside-Agency-Landing-page](https://github.com/01adamx/Sunnyside-Agency-Landing-page)
+- Live Site URL: [https://01adamx.github.io/Sunnyside-Agency-Landing-page/](https://01adamx.github.io/Sunnyside-Agency-Landing-page/)
 
 ## My process
 
