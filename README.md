@@ -56,9 +56,9 @@ Users should be able to:
 
 ## Author
 
-- Github - [Adams Ibrahim](https://github.com/adamx23x)
+- Github - [Adams Ibrahim](https://github.com/01adamx)
 - Frontend Mentor - [@adamx23x](https://www.frontendmentor.io/profile/@adamx23x)
-- Twitter - [@adamx23x](https://www.twitter.com/@adamx23x)
+- Twitter - [@01adamx](https://www.twitter.com/@01adamx)
 
 
 ## Acknowledgments
